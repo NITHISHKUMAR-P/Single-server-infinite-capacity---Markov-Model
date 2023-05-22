@@ -1,4 +1,4 @@
-# Exp.5 Single server with infinite capacity (M/M/1):(oo/FIFO)
+# Exp.4 Single server with infinite capacity (M/M/1):(oo/FIFO)
 ### Name : Nithishkumar P
 ### Reg no : 212221230070
 ### Date :
